@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+	<connection>
+	    <sid>wbd</sid>
+		<host>localhost</host>
+		<port>1521</port>
+	</connection>
+</database>
